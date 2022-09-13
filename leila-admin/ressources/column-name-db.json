@@ -1,0 +1,24 @@
+{
+	"categories" : [
+		"cat_nom",
+		{ "cat_type": [
+			"plat",
+			"vin"
+		] }
+	],
+	"plats" : [
+		"pla_nom",
+		"pla_detail",
+		"pla_portion",
+		"pla_prix",
+		"pla_cat_id_ce"
+	],
+	"vins" : [
+		"vin_nom",
+		"vin_detail",
+		"vin_provenance",
+		"vin_annee",
+		"vin_prix",
+		"vin_cat_id_ce"
+	]
+}
